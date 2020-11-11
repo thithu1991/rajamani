@@ -1,2 +1,0 @@
-# rajamani
-matlab codes
